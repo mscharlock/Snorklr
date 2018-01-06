@@ -7,5 +7,5 @@ const profileSchema = new Schema({
   avatar: { type: String }, //check//
   bio: { type: String },
 });
-// 
+//
 // const Profile'
